@@ -1,12 +1,10 @@
-# ToyFight-Website-funProject#
+# ToyFight-Website-funProject
 
 This project is a static webpage inspired by the creative and visually appealing style of Toyfight's website. It features a clean and modern design.
-## Table of Contents
 
 ## Demo
 
-To see a live demo of this webpage, visit [Demo Page](#https://toyfight-funproject.netlify.app/).
-- **Open Source**: 
+To see a live demo of this webpage, visit [Demo Page](https://toyfight-funproject.netlify.app/).
 
 ## Getting Started
 
@@ -20,5 +18,3 @@ To use this project for your own webpage:
 ### Styling
 
 Customize the styling by modifying the `styles.css` file. You can change colors, fonts, and layout.
-
-
